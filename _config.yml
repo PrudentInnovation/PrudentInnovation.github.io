@@ -1,0 +1,32 @@
+url: # https://prudentinnovation.github.io/
+baseurl: http://prudentinnovation.org/
+
+# Site settings
+title: Prudent Innovation
+email: hello@prudentinnovation.org
+description: "Thank you for working with us!"
+
+
+people:
+- name: Seamus Tuohy
+  pic: 1
+  position: Principal Consultant
+  social:
+    - title: twitter
+      url: https://www.twitter.com/seamustuohy
+    - title: github
+      url: https://www.github.com/seamustuohy
+    - title: medium
+      url: https://medium.com/@seamustuohy
+
+social:
+  - title: twitter
+    url: http://twitter.com/prudentinnov
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Washington, DC
+
+# Build settings
+markdown: kramdown
+permalink: pretty
